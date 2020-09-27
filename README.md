@@ -15,3 +15,4 @@ Python file containing the code for reading the probability matrix from Game Sta
 Python file containing the code for Player X playing with heuristic moves and Player O making random moves. Histogram plotted for 10000 matches. 
 
 ![alt_text](https://github.com/TDeepanshPandey/Tic_Tac_Toe_Using_AI/blob/master/1.3%20Histogram%20(Player%20X%20heuristic%2C%20Player%20O%20random).png)
+.
